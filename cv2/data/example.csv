@@ -1,0 +1,4 @@
+patient_id,name,age,diagnosis
+1,Alice,30,cancer
+2,Bob,25,flu
+3,Charlie,40,diabetes
